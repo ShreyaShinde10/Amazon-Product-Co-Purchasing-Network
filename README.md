@@ -1,0 +1,1 @@
+This project is about Amazon’s co-purchase network with over 1 million products sales record and other features.The goal is to analyze co-purchase data to build a social network among products and identify key metrics for sales.
